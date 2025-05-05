@@ -10,4 +10,6 @@
 ## 🎯 Project Aim:
 To investigate the spatial and temporal relationships between urban mobility patterns and air quality hotspots by integrating diverse mobility datasets (such as taxi trips, rideshare data, or GPS trajectories) with localized air quality measurements. This project applies advanced space-time clustering techniques—including K-Mean, DBSCAN, and ST-DBSCAN—to identify significant overlaps between zones of high mobility and poor air quality. It also explores how the choice of clustering algorithm impacts the interpretation of mobility-driven pollution patterns, with the goal of supporting urban policy, traffic management, and environmental planning.
 
-## 📄 Instructions / Steps
+## 📄 Instructions:
+Since our project exceeds the size limit to upload to GitHub, we have uploaded based on the phases of our project.
+so each phase will be a separate file, however the full notebook will be uploaded as a zip file.
