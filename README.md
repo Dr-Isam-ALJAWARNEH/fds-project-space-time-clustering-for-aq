@@ -1,5 +1,8 @@
-# 📌 Project Topic
+#  Project Topic
 🌍 Space-Time Clustering of Mobility Patterns and Air Quality Hotspots 
+
+## 📌 Project Overview
+The project investigates the correlation between urban mobility patterns and air quality hotspots by analyzing large-scale mobility data (e.g., taxi trips, GPS traces) and localized air pollution measurements. Advanced clustering techniques are used to detect patterns and inform urban planning decisions.
 
 ## 👥 Project Members
 * [Khawla Alzarooni](https://github.com/Khawla0102).  
@@ -13,3 +16,14 @@ To investigate the spatial and temporal relationships between urban mobility pat
 ## 📄 Instructions:
 Since our project exceeds the size limit to upload to GitHub, we have uploaded based on the phases of our project.
 so each phase will be a separate file, however the full notebook will be uploaded as a zip file.
+
+## ⚙️ How to Run the Project
+1. **Download the full project ZIP file** from this repository.
+2. **Extract** the ZIP file to your local computer.
+3. **Install the required Python libraries**.
+4. **Download the dataset files** and place them in a folder named Datasets in your Google Drive:
+* chicago_eclipse_data_part_1.csv to chicago_eclipse_data_part_19.csv
+* Taxi_Trips_-_2021_20250425.csv
+* chicago_community_boundaries.json
+5. **Mount** your Google Drive in your notebook before running the code.
+6. **Run** all cells in sequence.
