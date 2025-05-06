@@ -20,7 +20,7 @@ so each phase will be a separate file, however the full notebook will be uploade
 ## ⚙️ How to Run the Project
 1. **Download the full project ZIP file** from this repository.
 2. **Extract** the ZIP file to your local computer.
-3. **Install the required Python libraries**.
+3. **Install the required Python libraries** if you are using Visual studio, otherwise you can upload it to google colab.
 4. **Download the dataset files** and place them in a folder named Datasets in your Google Drive:
 * chicago_eclipse_data_part_1.csv to chicago_eclipse_data_part_19.csv
 * Taxi_Trips_-_2021_20250425.csv
